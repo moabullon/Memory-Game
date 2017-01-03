@@ -1,0 +1,30 @@
+
+h1 {
+  text-align: center;
+}
+
+.container {
+  width: 1080px;
+  margin: 0 auto;
+}
+
+.card {
+  float: left;
+  margin: 10px;
+  height: 150px;
+  width: 150px;
+  background: lightblue;
+  text-align: center;
+  border-radius: 5px;
+
+}
+
+.cardhover {
+  cursor: pointer;
+  border: 2px solid blue;
+}
+
+.card p {
+  font-size: 48px;
+  color: blue;
+}
